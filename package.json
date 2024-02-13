@@ -1,5 +1,6 @@
 {
   "private": true,
+  "name": "@g1ronn1mo/content-layer",
   "type": "module",
   "scripts": {
     "build": "nuxt build",
